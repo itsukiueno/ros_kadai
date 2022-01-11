@@ -58,6 +58,8 @@
 # 実行動画
 
 # ライセンス
+GNU General Public License v3.0
+
 
 # コントリビューション
 
