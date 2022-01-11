@@ -56,6 +56,7 @@
 
 
 # 実行動画
+https://youtube.com/shorts/IzFIwCVrs3c?feature=share
 
 # ライセンス
 GNU General Public License v3.0
