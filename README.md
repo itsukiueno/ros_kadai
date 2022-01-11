@@ -63,6 +63,10 @@ GNU General Public License v3.0
 
 
 # コントリビューション
+hiroさんにpushのやり方をアドバイスしていただきました。ありがとうございました。
+
+https://github.com/hiro2001/mypkg
+
 以下のサイトでREADMEの書き方を参考にしました。ありがとうございました。
 
 https://notepm.jp/help/markdown-table
