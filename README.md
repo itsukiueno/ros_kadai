@@ -20,9 +20,13 @@
 # インストール
 以下の手順に従って入力してください。
 
-① $ git clone git@github.com:itsukiueno/kadai2.git
+① $ cd catkin_ws/src
 
-② $ cd 
+② $ git clone git@github.com:itsukiueno/kadai2.git
+
+③ $ cd ..
+
+④ $ catkin_make
 
 
 # 実行
@@ -49,3 +53,7 @@
 
 ### 実行内容
 以上のコマンドを打つことによって、0から200までの数字が0から100の間では２の倍数が連続で、100から200の間では４の倍数が連続で出力されます。順番に数が出力され200まで行くと次は0に戻り同じくループします。
+
+
+# コントリビューション
+
