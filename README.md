@@ -63,4 +63,9 @@ GNU General Public License v3.0
 
 
 # コントリビューション
+以下のサイトでREADMEの書き方を参考にしました。ありがとうございました。
+
+https://notepm.jp/help/markdown-table
+
+
 
