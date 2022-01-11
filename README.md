@@ -63,7 +63,9 @@ GNU General Public License v3.0
 
 
 # コントリビューション
-hiroさんにpushのやり方をアドバイスしていただきました。ありがとうございました。
+hiroさんにpushのやり方をアドバイスしていただきました。
+
+以下のリンクがhiroさんのものです。ありがとうございました。
 
 https://github.com/hiro2001/mypkg
 
@@ -71,5 +73,9 @@ https://github.com/hiro2001/mypkg
 
 https://notepm.jp/help/markdown-table
 
+ryuichiuedaさんのコードをベースに改造しました。
 
+以下のリンクがryuichiuedaさんのものです。ありがとうございました。
+
+https://github.com/ryuichiueda
 
